@@ -23,7 +23,7 @@ and "Label".**
 
 ## Architecture ##
 
-(network.png)
+![network](network.png)
 
 ## References
 
